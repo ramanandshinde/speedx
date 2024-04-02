@@ -111,6 +111,7 @@ body {
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
     animation-delay: 1s;
+     animation-direction: alternate;
     
 }
 
